@@ -1,5 +1,7 @@
 # Create a simple cross-platform desktop Space Invaders game with Go
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/invadersapp.svg)](https://www.guardrails.io)
+
 A few months ago I fiddled around with [writing Space Invaders using Go](https://sausheong.github.io/posts/space-invaders-with-go). I had a lot of fun writing it but the output only worked on iTerm2 because it used a specific feature of that terminal. In order to play the game you'd really have to download iTerm2 and run it on the command line. I thought it'd be fun to muck around it a bit more to see if I can bring it out as a proper desktop game.
 
 ![Space Invaders](images/space-invaders.jpg)
